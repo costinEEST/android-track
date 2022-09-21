@@ -1,0 +1,20 @@
+- Video [course](https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB)
+- Teachers: Simmi Anand, [Lalit Singh Manral](https://twitter.com/lalitsingh047), [Jocelyn Becker](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/overview-v2)
+- [Advanced Android Development](https://developer.android.com/courses/advanced-training/overview)
+- [Associate Android Developer Certification](https://developers.google.com/certification/associate-android-developer/study-guide)
+- Component types:
+  - **Activity** is a single screen with a user interface
+  - **Service performs** long-running tasks in background 
+  - **Content provider** manages shared set of data 
+  - **Broadcast receiver** responds to system-wide announcements
+
+- Think of Android as a hotel:
+  - Your app is the guest 
+  - The Android system is hotel manager 
+  - Services are available when you request them (intents)
+    - In the foreground (activities) such as registration 
+    - In the background (services) such as laundry 
+  - Calls you when a package has arrived (broadcast receiver)
+  - Access the city's tour companies (content provider)
+- Android [API](https://github.com/ebelinski/apilevels) levels
